@@ -1,0 +1,4 @@
+netmiko>=4.0.0
+requests
+pyyaml
+keyring>=25.0.0

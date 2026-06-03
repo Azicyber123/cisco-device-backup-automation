@@ -1,0 +1,19 @@
+devices:
+  # IOS / IOS-XE Devices
+  - host: "192.168.2.1"
+    name: "core-sw01"
+    type: "ios"
+
+  - host: "192.168.2.2"
+    name: "dist-sw02"
+    type: "iosxe"
+
+  # NX-OS Devices
+  - host: "192.168.4.1"
+    name: "nexus-sw01"
+    type: "nxos"
+
+  # IOS-XR Devices
+  - host: "192.168.3.1"
+    name: "xr-router01"
+    type: "xr"
