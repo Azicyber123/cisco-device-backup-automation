@@ -11,6 +11,9 @@ logs/*
 backups/*
 !logs/.gitkeep
 !backups/.gitkeep
+!backups/ios/.gitkeep
+!backups/nxos/.gitkeep
+!backups/xr/.gitkeep
 
 # OS & IDE
 .DS_Store
